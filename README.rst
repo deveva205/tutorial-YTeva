@@ -1,9 +1,8 @@
-Template for the Read the Docs tutorial
+YTeva Docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is the YTeva library, through which it will allow songs to be played during the call, and you can also send songs through the bot.
 
 Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://tutorial-yteva.readthedocs.io/en/latest/index.html
