@@ -1,7 +1,7 @@
 Welcome to YTeva documentation!
 ===================================
 
-**YTeva** YTeva is a python library through which you can download audio and videos from YouTube and use them in Telegram bots only>
+**YTeva** YTeva is a python library through which you can download audio and videos from YouTube and use them in Telegram bots only.
 
 
 Check out the :doc:`usage` section for further information, including
@@ -17,4 +17,4 @@ Contents
 .. toctree::
 
    usage
-   api
+   Changelog
