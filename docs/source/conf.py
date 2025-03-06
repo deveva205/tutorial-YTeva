@@ -6,8 +6,8 @@ project = 'YTeva'
 copyright = '2024, SourceEva'
 author = 'Source Eva'
 
-release = '0.1'
-version = '0.0.1'
+release = '0.5'
+version = '0.0.4'
 
 # -- General configuration
 
